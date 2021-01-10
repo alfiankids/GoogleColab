@@ -1,0 +1,5 @@
+Script Youtube-dl :
+https://ostechnix.com/youtube-dl-tutorial-with-examples-for-beginners/
+
+Script Cut Video :
+https://unix.stackexchange.com/questions/230481/how-to-download-portion-of-video-with-youtube-dl-command
